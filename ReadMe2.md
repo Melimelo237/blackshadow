@@ -1,0 +1,6 @@
+Documentation test
+initialisation du depot
+...
+...
+git init
+git remote add origin HTTPS REPO
